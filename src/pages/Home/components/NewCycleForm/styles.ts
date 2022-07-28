@@ -11,6 +11,15 @@ export const FormContainer = styled.div`
   color: ${(props) => props.theme["gray-100"]};
   font-size: 1.125rem;
   font-weight: bold;
+
+  @media (max-width: 1024px) {
+    margin-top: 1rem;
+  }
+
+  @media (max-width: 426px) {
+    margin-top: 2rem;
+    font-size: 1rem;
+  }
 `;
 
 const BaseInput = styled.input`
@@ -31,6 +40,10 @@ const BaseInput = styled.input`
 
   &::placeholder {
     color: ${(props) => props.theme["gray-500"]};
+  }
+
+  @media (max-width: 426px) {
+    font-size: 1rem;
   }
 `;
 
