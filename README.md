@@ -1,7 +1,7 @@
-## PROJETO 'TODO'
+## PROJETO 'Timer'
 
 <div align="center">
-<img src="https://github.com/rodrigodevelop-tech/repositorio-de-Imagens/blob/main/Todo%20templatepng.png" alt="Todo"  />
+<img src="https://github.com/rodrigodevelop-tech/repositorio-de-Imagens/blob/main/Timer.png" alt="Timer"  />
 </div>
 <br />
 
@@ -25,7 +25,7 @@
 
 ## 🌐 Live Version
 
-[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-application-phi.vercel.app/)
+[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]("")
 
 ## 🔗 More About Me
 
